@@ -6,6 +6,7 @@ This is a crowd sourcing app!
 
 ## Requirements
 
+<<<<<<< HEAD
 - git <br>
 You'll know you did it right if you can run git --version and you see a response like git version x.x.x
 - foundry <br>
@@ -60,3 +61,8 @@ forge coverage
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Samir_Alam/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samir_ig_0/)
 ![image]()
+=======
+## Quickstart
+
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+>>>>>>> origin/master
